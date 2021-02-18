@@ -1,2 +1,2 @@
 # DetayLiListView-ProgramlamaDilleri
-Flutter ile örnek Listwiew uygulaması
+Flutter ile örnek Listview uygulaması
